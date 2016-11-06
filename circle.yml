@@ -5,7 +5,7 @@ machine:
 dependencies:
   override:
     - docker info
-    - make build_build
+    - make docker_build
 
 deployment:
   hub:
