@@ -1,3 +1,6 @@
+general:
+  build_dir: api
+
 machine:
   services:
     - docker
